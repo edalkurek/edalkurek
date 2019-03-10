@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "884164104912",
+    "firebase_url": "https://edalkurek-a52ff.firebaseio.com",
+    "project_id": "edalkurek-a52ff",
+    "storage_bucket": "edalkurek-a52ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884164104912:android:e18e01cc1960f5b2",
+        "android_client_info": {
+          "package_name": "com.edalkurek.edalkurek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884164104912-p49tjaefhro8eak99tbuum5lm0237bdn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.edalkurek.edalkurek",
+            "certificate_hash": "0a699d854f7e16c37ff3ac2f47991d60cf7456ab"
+          }
+        },
+        {
+          "client_id": "884164104912-2rel413vpeng64fqtni4n8e8go254ghk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4QcsAW9jfK4zG1xf2sEdQHrkY4_LdViA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884164104912-2rel413vpeng64fqtni4n8e8go254ghk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
